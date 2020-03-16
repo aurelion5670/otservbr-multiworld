@@ -4,3 +4,4 @@
 [PLAYERS_ONLINE] add world_id INT 2
 [SERVER_CONFIG] add world_id INT 2
 [TILE_STORE] add world_id INT 2
+[MARKET_OFFERS] add world_id INT 2
